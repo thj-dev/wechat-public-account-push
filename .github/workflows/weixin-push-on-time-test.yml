@@ -5,7 +5,7 @@ name: weixin-push-on-time-test
 
 on:
   workflow_dispatch:
-    
+  Corn:'0 12 * * *' 
 jobs:
   build:
 
